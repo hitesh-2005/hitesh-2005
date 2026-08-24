@@ -57,21 +57,6 @@
   <img src="https://raw.githubusercontent.com/hitesh-2005/hitesh-2005/output/github-contribution-grid-snake-dark.svg" alt="hitesh-2005 snake animation" width="100%"/>
 </p>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hitesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="hitesh-2005 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-2005&layout=compact&theme=radical&hide_border=true" alt="hitesh-2005 top langs" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitesh-2005&theme=radical&no-frame=true&row=1&column=6" alt="hitesh-2005 trophies" />
-</p>
-
 ---
 
 <p align="center">
